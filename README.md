@@ -1,2 +1,2 @@
 [QALY](https://open.kattis.com/problems/qaly)
-[QALY.png](/qaly)
+![QALY.png](/qaly.png)
